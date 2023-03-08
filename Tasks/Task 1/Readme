@@ -1,1 +1,36 @@
 
+The Task assigned by our sir are : 
+
+
+
+1- Task: Create a Program to Calculate Student Grades
+Breakdown:
+•	Declare two variables for the exam scores, e.g., englishMarks and urduMarks, and assign them values.
+•	Calculate the average of the two exams using the formula: (englishMarks + urduMarks) / 2
+•	Use if-else conditionals to determine the student's grade based on the average score.
+•	For example, if the average score is greater than or equal to 80, assign grade "A", if it is greater than or equal to 70 and less than 80, assign grade "B", and so on until grade "F" for a score below 60.
+•	Display the grade to the user as output.
+
+2- Task: Create an Array Manipulation Program
+Breakdown:
+•	Declare an array of strings, e.g. ["apple", "banana", "cherry", "date", "elderberry"]
+•	Use array methods to perform the following manipulations:
+o	Append a string to the end of the array
+o	Prepend a string to the beginning of the array
+o	Remove a string from a specific index in the array and replace it with another string
+•	Display the array before and after each manipulation to the user as output.
+
+3- Task: Create a Function to Determine the Discount Amount for a Product
+Breakdown:
+•	Create a function that takes a product price and a discount percentage as input and calculates the discount amount for the product using the formula: discount amount = product price * (discount percentage / 100).
+•	If the discount percentage is greater than or equal to 50%, the function should return an error message indicating that the discount percentage is invalid.
+•	Display the original price, discount percentage, discount amount, and final price of the product to the user as output.
+•	Test the function with different product prices and discount percentages.
+
+4- Task: Create a Function to Calculate the Factorial of a Number
+Breakdown:
+•	Create a function that takes a number as input and calculates its factorial using a loop.
+•	The factorial of a number is the product of all positive integers less than or equal to the number. For example, the factorial of 5 is 5 x 4 x 3 x 2 x 1 = 120.
+•	The function should return the factorial of the input number.
+•	Test the function with different numbers to make sure it is working correctly.
+
